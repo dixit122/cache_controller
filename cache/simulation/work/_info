@@ -1,0 +1,82 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/dixit/Desktop/SEM_7/MPA/cache_controller/ee457_cache1/ee457_cache/part1
+vCache
+!s110 1699245280
+!i10b 1
+!s100 RO]aTZlo]H8US8H78Fenz0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2AB95[JP0>jHWgBzHQGBg1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1699210521
+8/home/dixit/Desktop/SEM_7/MPA/cache_controller/ee457_cache1/ee457_cache/part1/cache_p1.v
+F/home/dixit/Desktop/SEM_7/MPA/cache_controller/ee457_cache1/ee457_cache/part1/cache_p1.v
+!i122 176
+L0 3 183
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1699245280.000000
+!s107 /home/dixit/Desktop/SEM_7/MPA/cache_controller/ee457_cache1/ee457_cache/part1/cache_p1.v|
+!s90 -nologo|-work|simulation/work|/home/dixit/Desktop/SEM_7/MPA/cache_controller/ee457_cache1/ee457_cache/part1/cache_p1.v|-pedanticerrors|-qlint|-timescale=1ps/1ps|-vlog01compat|
+!i113 1
+Z4 o-nologo -work simulation/work -pedanticerrors -qlint -timescale=1ps/1ps -vlog01compat
+Z5 tCvgOpt 0
+n@cache
+vcache_tb
+!s110 1699246756
+!i10b 1
+!s100 CC`^HhdLkP^Y@<KIGzB?H1
+R1
+I:g533Ji:T`V]3l>geSBG62
+R2
+R0
+w1699246756
+8/home/dixit/Desktop/SEM_7/MPA/cache_controller/ee457_cache1/ee457_cache/part1/cache_tb1.v
+F/home/dixit/Desktop/SEM_7/MPA/cache_controller/ee457_cache1/ee457_cache/part1/cache_tb1.v
+!i122 208
+L0 3 248
+R3
+r1
+!s85 0
+31
+!s108 1699246756.000000
+!s107 /home/dixit/Desktop/SEM_7/MPA/cache_controller/ee457_cache1/ee457_cache/part1/cache_tb1.v|
+!s90 -nologo|-work|simulation/work|/home/dixit/Desktop/SEM_7/MPA/cache_controller/ee457_cache1/ee457_cache/part1/cache_tb1.v|-pedanticerrors|-qlint|-timescale=1ps/1ps|-vlog01compat|
+!i113 1
+R4
+R5
+vMemory
+!s110 1699202059
+!i10b 1
+!s100 P>z7Z8kb>EO2<BQfXNHCB2
+R1
+IW?UOIIK[SY4>YQmJR>n300
+R2
+R0
+w1562122738
+8/home/dixit/Desktop/SEM_7/MPA/cache_controller/ee457_cache1/ee457_cache/part1/memory.v
+F/home/dixit/Desktop/SEM_7/MPA/cache_controller/ee457_cache1/ee457_cache/part1/memory.v
+!i122 50
+L0 11 75
+R3
+r1
+!s85 0
+31
+!s108 1699202059.000000
+!s107 /home/dixit/Desktop/SEM_7/MPA/cache_controller/ee457_cache1/ee457_cache/part1/memory.v|
+!s90 -nologo|-work|simulation/work|/home/dixit/Desktop/SEM_7/MPA/cache_controller/ee457_cache1/ee457_cache/part1/memory.v|-pedanticerrors|-qlint|-timescale=1ps/1ps|-vlog01compat|
+!i113 1
+R4
+R5
+n@memory
